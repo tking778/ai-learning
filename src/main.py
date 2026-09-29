@@ -1,1 +1,1 @@
-print("AI learning project started")
+print("AI learning journey started")
